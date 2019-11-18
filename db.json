@@ -4,6 +4,11 @@
     { "id": 2, "title": "Post 22" },
     { "id": 3, "title": "Post 333" }
   ],
+  "music": [
+    { "id": 1, "cover": "封面一" },
+    { "id": 2, "cover": "蜂蜜那2" },
+    { "id": 3, "title": "Post 333","singer":"恐龙" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment看手机单", "postId": 1 },
